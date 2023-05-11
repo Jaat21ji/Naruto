@@ -2,14 +2,15 @@
 
 
 # Basic
-TOKEN: "5622000657:AAFgXXvVU8FwNPGJe8KQle55EMuQvxl8bIg"
+TOKEN: "6211371019:AAFbXHUhUZGCfW2BLipeMApwIEjTw0amamo"
 
 # Get they in https://my.telegram.org/
 APP_ID: 23653496
 APP_HASH: "47cf002776a617a36fdb36af16ad8511"
 
 #Generate a telethon str session  with https://repl.it/@SpEcHiDe/GenerateStringSession (telethon one)
-STRING_SESSION: "1BVtsOKoBuwjbr3_rM3liCzZpavx2dVmbyfnaPha2PqMOK3-t4QKmKPQR_X9TmcNd2k1wxz2zOuZ2p-6dJanbysjlx9fWQOxkfy5Hrl27QJ73QGaoSWh4K8T-LBRI_5IrPf8yw2-X-3wU5rpku8hfXwKTMppQ3cNVPxy3kYM3eOEV-TKPc1k2eWyMAmFkzDUKg-pl9sayYZ-qCTAs5USsfRIzeILLMJt-bhkvZlJ7mRmVPX0QbCTqa1Cvj8VZ6E_ft1BYJn5--SMSBsGHPBidKtfS3Vz9INnYJPxIBV7ULarO6WzefiezuffaIjS6Ztnt6wlHWl7d8mpnqdAXbM9ncbrFCzWtfH8="
+STRING_SESSION: "1BVtsOKYBu4vy3FKiUe3UzViJ70atRHs6IPRjlWl0xEvJ_A-qLbp-PsoTr620mG2iYa4I8ejcsqWXXmkhaWZwmPwJ2hhda91nei4z-7Ye84qD49tq-hQ2fcop3hjBfQ1KIfeN5vLe-HiGtyq6htgtDTILEs1p8DG3YRNnX580pxdKvr-pgs-9UDvYWaf2Ej_bTbiUjh0lZNjrl_A2YDP50qLXJ5Xlt5hrD17pNqM7aeOul-rqd7FD-vQcp7sc_sp7O1mEEN5skTjez93NTZV19Cr0_JQxVFJ_Aft0VhuF10oU5CL39_2jL3uSqXH-2KhtDdoRUfZNmAW9G6SmOpTOJ1PcyD6yoEs=
+"
 
 
 MONGO_URI: "mongodb+srv://dfsdfX:dfsfdX@cluster0.df4j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
@@ -26,7 +27,7 @@ REDIS_PASS: "pass"
 TEMP_MAIL_KEY: ""
 OWNER_ID: 2096929390
 OPERATORS: 2096929390
-SUPPORT_CHAT: -000000000
+SUPPORT_CHAT: -2096929390
 SUDO_USERS: "2096929390"
 
 DATABASE_URL: "postgres://phyweumq:iBntVPD7PzJ077mohAh0HaaXV1ntpc3x@isilo.db.elephantsql.com/phyweumq"
